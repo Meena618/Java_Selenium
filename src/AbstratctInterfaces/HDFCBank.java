@@ -11,7 +11,7 @@ class SBI implements HDFCBank{
 	}
 	class PNB implements HDFCBank
 	{
-		public float rateOfIntrest(){return 9.20f;}
+		public float rateOfIntrest(){return 8.20f;}
 	}
 	class TestInterface6
 	{               
